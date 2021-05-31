@@ -1,0 +1,5 @@
+
+copyrigth...
+int main(int argc,char** argv){
+	printF("hello world\n")
+
